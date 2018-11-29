@@ -1,3 +1,4 @@
+const fs = require("fs")
 module.exports = (service) => {
     const NODE_ENV = process.env.NODE_ENV;
     if(process.env[`GRPC_HOST_${service}`]) {

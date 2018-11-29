@@ -1,6 +1,6 @@
 {
   "name": "@arys/grpc-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "set the url to a grpc server with rules based on NODE_ENV",
   "main": "index.js",
   "scripts": {
